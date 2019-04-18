@@ -3,7 +3,7 @@
 ![image](https://github.com/kaku2015/ColorfulNews/blob/master/screenshots/logo.png)
 
 一个Material Design风格的新闻阅读App，采用MVP模式，基于Dagger2+RxJava+Retrofit2进行开发
-测试push
+
 
 ### 扫码下载:
 
